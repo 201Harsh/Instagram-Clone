@@ -24,7 +24,7 @@ A React-based clone of the popular social media platform Instagram.
 
 ## Setup
 
-1. Clone the repository: `git clone https://github.com/yourusername/instagram-clone.git`
+1. Clone the repository: `git clone https://github.com/201Harsh/Instagram-Clone.git`
 2. Install dependencies: `npm install`
 3. Start development server: `npm start`
 4. Open in browser: `http://localhost:3000`
